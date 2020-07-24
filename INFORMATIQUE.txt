@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> L'INFORMATIQUE </title>
+		<meta charset="utf-8" >
+	</head>
+		<body>
+		<h1> Ces quoi la programmation </h1>
+		<p>
+		Je crée un site pour ma première fois juste pour découvrir le monde informatique pour découvrir 
+		ces quoi le ce mystère que nous utilisons chaque jour de notre vie que ce soit adolescent ou majeurs sa nous concerne tous.
+		</br> Et j'aurais envie de vous expliqué ces quoi l'informatique pour être précis dans mon explications je vous parles de 
+		la programmations selon moi et de mes connaissances d'analyses mais chacun à sa manière d'expliqué la solution est que de
+		base ces pareille ces comme si ont te dit ont se déplacer d'un point 
+		<b> A à B </b> 
+		il suffit juste d'arrivé peut
+		importe part où tu passe.
+		</br>Et nous verrons ensemble comment faire la programmation et les différentes types de programmations avec plusieurs langages différentes.</p>
+		<p>Nous y voilà sur notre chemin ces quoi le langage programmations en informatique ?
+		</br> "Un langage de programmations informatique est une notation conventionnelle destiné à formuler des algorithmes
+		et produire des programmes informatique qui les appliques. D'une manière similaire à une langage naturelle.
+		un langage de programmation est composé d'un alphabet, d'un vocabulaire, de règles de grammaires et de significations.
+		</br>
+		les langages de programmation permettent de décrire d'une part part les structures des données  qui seront manipulées par l'appareil
+		informatique, et d'autre part indiquer comment sont effectué les manipulations, selon quels algorithmes.</p>
+		<h2>Les types de langages de programmation en informatique</h2>
+		</br> Nous avons plusieurs langages chacun est indépendant 
+		d'autres ce complémente et je vous expliquerais ci-dessous ces langages avec des vidéos claires et comment programmer
+		ces langages pour débutants même si vous avez jamais programmé ou pour plus de compréhension je vous conseille la chaîne youtube
+		<a href="https://www.youtube.com/user/TheOpenClassrooms"><font size="5"<i>openclassroom </i></font size></a>.
+		<br>Sa vous guideras en quelques clic de certains pour mieux vous orientez; 
+		</br>Donc ont n'as:
+		<u1>
+			<li>le Java.</li>
+			<li>le C++.</li>
+			<li>le C#.</li>
+			<li>le PHP.</li>
+			<li>le Python.</li>
+			<li>le Ruby.</li>
+			<br>Plus...
+		</u1>
+		</br> Voilà quelques logos des ces langages.
+		<img src="seydibarry/images_Java.png" alt="Mysql" />
+		</body>
+		</html>
